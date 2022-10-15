@@ -14,7 +14,7 @@ as a demonstration of a transactional email.
 - And some little things :)
 
 # Getting Started
-1. <a href="https://github.com/dudeonthehorse/kilogram/archive/dev.zip">Load</a> Design
+1. <a href="https://aram-eli.github.io/Transactional/">Load</a> Design
 2. Go to `project_name` folder using `$ ls` or `$ dir` command
 3. Run `$ gulp` to launch builder and project watcher
 4. Have fun!
